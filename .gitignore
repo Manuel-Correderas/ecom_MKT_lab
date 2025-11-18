@@ -116,3 +116,96 @@ requirements_local.txt
 requirements-dev.txt
 requerimientos.txt
 requerimientos_local.txt
+# ───────── ENTORNOS PYTHON ─────────
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Caches de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Archivos de logs
+*.log
+
+# ───────── NODE / FRONTEND ─────────
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Builds / dist / bundlers
+dist/
+build/
+.cache/
+.next/
+.turbo/
+.parcel-cache/
+
+# ───────── STREAMLIT ─────────
+.streamlit/cache/
+.streamlit/static/
+
+# ───────── DATOS PESADOS / DB ─────────
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+*.bak
+*.dump
+
+# Si tenés dumps SQL enormes
+dump_*.sql
+*.sql
+
+# ───────── MEDIOS PESADOS ─────────
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.mp3
+*.wav
+
+# ───────── IDE / SISTEMA ─────────
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ───────── COSAS DE PRUEBA LOCALES ─────────
+tmp/
+temp/
+*.tmp
+/.pytest_cache/
+.coverage
+htmlcov/
+
+# ───────── SECRETS / CONFIG PRIVADO ─────────
+.env
+.env.*
+*.secret
+*.key
+*.pem

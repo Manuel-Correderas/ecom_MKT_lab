@@ -1,0 +1,2 @@
+DATABASE_URL=mysql+pymysql://root:@127.0.0.1:3306/ecom_mkt_lab
+BACKEND_URL=http://127.0.0.1:8000
