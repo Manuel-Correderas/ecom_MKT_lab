@@ -1,0 +1,7 @@
+﻿id,name,price,stock,category,subcategory,image_url,description,features,seller,rating,sold,pay_method,network,alias,wallet
+1,Remera Básica Negra,9999.0,50,VESTIMENTA,REMERA,https://st5.depositphotos.com/61220110/74843/i/600/depositphotos_748437908-stock-photo-blank-shirt-black-template-front.jpg,,,,0.0,0,,,,
+2,Jean Slim Azul,25999.0,30,VESTIMENTA,PANTALON/JEAN,https://st2.depositphotos.com/1001335/5928/i/600/depositphotos_59280723-stock-photo-blue-jeans-isolated-on-white.jpg,,,,0.0,0,,,,
+3,Zapatillas Urbanas,45999.0,25,VESTIMENTA,CALZADO,https://st3.depositphotos.com/3236579/33516/v/600/depositphotos_335162214-stock-illustration-cartoon-vintage-sneakers-isolated-on.jpg,,,,0.0,0,,,,
+4,Taladro Percutor 500W,79999.0,12,HERRAMIENTAS,TALADROS,https://st.depositphotos.com/1025801/3191/i/450/depositphotos_31910603-stock-photo-electric-drilling-machine-on-a.jpg,,,,0.0,0,,,,
+5,Auriculares In-Ear,14999.0,80,SONIDO,AURICULARES,https://st4.depositphotos.com/1083585/31632/i/1600/depositphotos_316320826-stock-photo-new-apple-computers-airpods-pro.jpg,,,,0.0,0,,,,
+6,Producto 6,20000.0,1,Nada,En  blanco,,,,Daniel Coria,0.0,0,Blockchain,ERC-20,,

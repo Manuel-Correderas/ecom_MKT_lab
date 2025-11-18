@@ -1,0 +1,3 @@
+product_id,user_name,rating,criteria,comment,date
+1,María González,10,"{'calidad':10,'precio':9,'durabilidad':10}","Excelente calidad",2024-03-15
+1,Carlos Rodríguez,9.5,"{'calidad':9,'precio':10,'durabilidad':9}","Perfecto ajuste",2024-03-12
